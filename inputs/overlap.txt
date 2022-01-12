@@ -1,0 +1,9 @@
+Outcome	Effect Estimate
+Subjective well-being	MD
+High light scatter reticulocyte count	MD
+High light scatter reticulocyte percentage of red cells	MD
+Reticulocyte fraction of red cells	MD
+Reticulocyte count	MD
+Immature fraction of reticulocytes	MD
+Allergic disease (asthma, hay fever or eczema)	OR
+Type 2 diabetes (adjusted for BMI)	OR

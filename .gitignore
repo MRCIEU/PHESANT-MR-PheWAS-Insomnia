@@ -1,0 +1,14 @@
+*.gen
+*.PED
+*.MAP
+*.ped
+*.map
+*.csv
+*.[rR]data
+*.bgen
+*.tsv
+*.txt
+*.dta
+*.dat
+*.out
+

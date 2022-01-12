@@ -1,0 +1,183 @@
+Sociodemographic	Additional exposures > Local environment > Greenspace and coastal proximity
+Sociodemographic	Additional exposures > Local environment > Home locations
+Sociodemographic	Additional exposures > Local environment > Residential air pollution
+Sociodemographic	Additional exposures > Local environment > Residential noise pollution
+Auxiliary Variables	Additional exposures > Physical activity measurement
+Lifestyle/Behaviours	Additional exposures > Physical activity measurement > Acceleration averages
+Lifestyle/Behaviours	Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Auxiliary Variables	Additional exposures > Physical activity measurement > Accelerometer calibration
+Auxiliary Variables	Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Auxiliary Variables	Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical Health	Biological samples > Assay results > Blood assays > Blood biochemistry
+Auxiliary Variables	Biological samples > Assay results > Blood assays > Blood biochemistry > Blood biochemistry processing
+Physical Health	Biological samples > Assay results > Blood assays > Blood count
+Auxiliary Variables	Biological samples > Assay results > Blood assays > Blood count > Blood count processing
+Physical Health	Biological samples > Assay results > Blood assays > Infectious Diseases
+Physical Health	Biological samples > Assay results > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Physical Health	Biological samples > Assay results > Urine assays
+Auxiliary Variables	Biological samples > Sample inventory > Blood sample inventory
+Auxiliary Variables	Biological samples > Sample inventory > Saliva sample inventory
+Auxiliary Variables	Biological samples > Sample inventory > Urine sample inventory
+Auxiliary Variables	Health-related outcomes > Algorithmically-defined outcomes > Asthma outcomes
+Auxiliary Variables	Health-related outcomes > Algorithmically-defined outcomes > COPD outcomes
+Auxiliary Variables	Health-related outcomes > Algorithmically-defined outcomes > Dementia outcomes
+Auxiliary Variables	Health-related outcomes > Algorithmically-defined outcomes > Myocardial infarction outcomes
+Auxiliary Variables	Health-related outcomes > Algorithmically-defined outcomes > Stroke outcomes
+Physical Health	Health-related outcomes > Cancer register
+Physical Health	Health-related outcomes > Death register
+Auxiliary Variables	Health-related outcomes > Hospital inpatient > Summary Administration
+Physical Health	Health-related outcomes > Hospital inpatient > Summary Maternity
+Physical Health	Health-related outcomes > Hospital inpatient > Summary Operations
+Mental Health	Health-related outcomes > Hospital inpatient > Summary Psychiatric
+Brain/Cognition	Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Brain/Cognition	Online follow-up > Cognitive function online > Numeric memory
+Brain/Cognition	Online follow-up > Cognitive function online > Pairs matching
+Brain/Cognition	Online follow-up > Cognitive function online > Symbol digit substitution
+Brain/Cognition	Online follow-up > Cognitive function online > Trail making
+Auxiliary Variables	Online follow-up > Diet by 24-hour recall
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Alcoholic beverages yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Bread/pasta/rice yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Cereal yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Diet questionnaire performance
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Estimated nutrients yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Fruit/vegetables yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Hot/cold beverages yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Meal type yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Meat/fish yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Milk/eggs/cheese yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Physical activity yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Soup/snacks/pastries yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Spreads/sauces/cooking oils yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Typical diet yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Vegetarian alternatives yesterday
+Lifestyle/Behaviours	Online follow-up > Diet by 24-hour recall > Vitamin/mineral supplements yesterday
+Physical Health	Online follow-up > Digestive health
+Mental Health	Online follow-up > Mental health > Addictions
+Mental Health	Online follow-up > Mental health > Alcohol use
+Mental Health	Online follow-up > Mental health > Anxiety
+Mental Health	Online follow-up > Mental health > Cannabis use
+Mental Health	Online follow-up > Mental health > Depression
+Mental Health	Online follow-up > Mental health > Happiness and subjective well-being
+Mental Health	Online follow-up > Mental health > Mania
+Mental Health	Online follow-up > Mental health > Mental distress
+Mental Health	Online follow-up > Mental health > Self-harm behaviours
+Mental Health	Online follow-up > Mental health > Traumatic events
+Mental Health	Online follow-up > Mental health > Unusual and psychotic experiences
+Sociodemographic	Online follow-up > Work environment
+Sociodemographic	Online follow-up > Work environment > Employment history
+Physical Health	Online follow-up > Work environment > Medical information
+Sociodemographic	Population characteristics > Baseline characteristics
+Sociodemographic	Population characteristics > Baseline characteristics > Indices of Multiple Deprivation
+Auxiliary Variables	Population characteristics > Ongoing characteristics
+Auxiliary Variables	UK Biobank Assessment Centre > Biological sampling > Blood sample collection
+Auxiliary Variables	UK Biobank Assessment Centre > Biological sampling > Urine sample collection
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Fluid intelligence / reasoning
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Matrix pattern completion
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Numeric memory
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Pairs matching
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Prospective memory
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Reaction time
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Symbol digit substitution
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Tower rearranging
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Trail making
+Auxiliary Variables	UK Biobank Assessment Centre > Imaging > Abdominal MRI
+Physical Health	UK Biobank Assessment Centre > Imaging > Abdominal MRI > Abdominal composition
+Physical Health	UK Biobank Assessment Centre > Imaging > Abdominal MRI > Liver MRI
+Auxiliary Variables	UK Biobank Assessment Centre > Imaging > Brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Diffusion brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Diffusion brain MRI > dMRI skeleton
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Diffusion brain MRI > dMRI weighted means
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Resting functional brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Susceptibility weighted brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Regional grey matter volumes (FAST)
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Subcortical volumes (FIRST)
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T2-weighted brain MRI
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > Task functional brain MRI
+Auxiliary Variables	UK Biobank Assessment Centre > Imaging > DXA assessment
+Physical Health	UK Biobank Assessment Centre > Imaging > DXA assessment > Body composition by DXA
+Physical Health	"UK Biobank Assessment Centre > Imaging > DXA assessment > Bone size, mineral and density by DXA"
+Physical Health	UK Biobank Assessment Centre > Imaging > Heart MRI > Left ventricular size and function
+Physical Health	UK Biobank Assessment Centre > Imaging > Heart MRI > Pulse wave analysis
+Physical Health	UK Biobank Assessment Centre > Physical measures > Anthropometry > Body size measures
+Physical Health	UK Biobank Assessment Centre > Physical measures > Anthropometry > Impedance measures
+Physical Health	UK Biobank Assessment Centre > Physical measures > Arterial stiffness
+Physical Health	UK Biobank Assessment Centre > Physical measures > Blood pressure
+Physical Health	UK Biobank Assessment Centre > Physical measures > Bone-densitometry of heel
+Physical Health	UK Biobank Assessment Centre > Physical measures > Carotid ultrasound
+Physical Health	"UK Biobank Assessment Centre > Physical measures > ECG at rest, 12-lead"
+Physical Health	UK Biobank Assessment Centre > Physical measures > ECG during exercise
+Physical Health	UK Biobank Assessment Centre > Physical measures > Eye measures > Autorefraction
+Physical Health	UK Biobank Assessment Centre > Physical measures > Eye measures > Eye surgery/complications
+Physical Health	UK Biobank Assessment Centre > Physical measures > Eye measures > Intraocular pressure
+Physical Health	UK Biobank Assessment Centre > Physical measures > Eye measures > Retinal optical coherence tomography
+Physical Health	UK Biobank Assessment Centre > Physical measures > Eye measures > Visual acuity
+Physical Health	UK Biobank Assessment Centre > Physical measures > Hand grip strength
+Physical Health	UK Biobank Assessment Centre > Physical measures > Hearing test
+Physical Health	UK Biobank Assessment Centre > Physical measures > Spirometry
+Auxiliary Variables	UK Biobank Assessment Centre > Procedural metrics
+Auxiliary Variables	UK Biobank Assessment Centre > Procedural metrics > Process durations
+Sociodemographic	UK Biobank Assessment Centre > Recruitment > Reception
+Family and Childhood	UK Biobank Assessment Centre > Touchscreen > Early life factors
+Family and Childhood	UK Biobank Assessment Centre > Touchscreen > Family history
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Breathing
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Cancer screening
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Chest pain
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Claudication and peripheral artery disease
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Eyesight
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > General health
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Hearing
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Medical conditions
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Medication
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Mouth
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Operations
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Health and medical history > Pain
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Alcohol
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Diet
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Electronic device use
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Physical activity
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Sexual factors
+Sleep	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Sleep
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Smoking
+Lifestyle/Behaviours	UK Biobank Assessment Centre > Touchscreen > Lifestyle and environment > Sun exposure
+Mental Health	UK Biobank Assessment Centre > Touchscreen > Psychosocial factors > Mental health
+Mental Health	UK Biobank Assessment Centre > Touchscreen > Psychosocial factors > Social support
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Sex-specific factors > Female-specific factors
+Physical Health	UK Biobank Assessment Centre > Touchscreen > Sex-specific factors > Male-specific factors
+Sociodemographic	UK Biobank Assessment Centre > Touchscreen > Sociodemographics > Education
+Sociodemographic	UK Biobank Assessment Centre > Touchscreen > Sociodemographics > Employment
+Sociodemographic	UK Biobank Assessment Centre > Touchscreen > Sociodemographics > Ethnicity
+Sociodemographic	UK Biobank Assessment Centre > Touchscreen > Sociodemographics > Household
+Sociodemographic	UK Biobank Assessment Centre > Touchscreen > Sociodemographics > Other sociodemographic factors
+Family and Childhood	UK Biobank Assessment Centre > Verbal interview > Early life factors
+Sociodemographic	UK Biobank Assessment Centre > Verbal interview > Employment
+Physical Health	UK Biobank Assessment Centre > Verbal interview > Medical conditions
+Physical Health	UK Biobank Assessment Centre > Verbal interview > Medications
+Physical Health	UK Biobank Assessment Centre > Verbal interview > Operations
+Physical Health	"Health-related outcomes > First occurrences > Blood, blood-forming organs and certain immune disorders"
+Physical Health	Health-related outcomes > First occurrences > Certain conditions originating in the perinatal period
+Physical Health	Health-related outcomes > First occurrences > Certain infectious and parasitic diseases
+Physical Health	Health-related outcomes > First occurrences > Circulatory system disorders
+Physical Health	Health-related outcomes > First occurrences > Congenital disruptions and chromosomal abnormalities
+Physical Health	Health-related outcomes > First occurrences > Digestive system disorders
+Physical Health	Health-related outcomes > First occurrences > Ear and mastoid process disorders
+Physical Health	"Health-related outcomes > First occurrences > Endocrine, nutritional and metabolic diseases"
+Physical Health	Health-related outcomes > First occurrences > Eye and adnexa disorders
+Physical Health	Health-related outcomes > First occurrences > Genitourinary system disorders
+Mental Health	Health-related outcomes > First occurrences > Mental and behavioural disorders
+Physical Health	Health-related outcomes > First occurrences > Musculoskeletal system and connective tissue disorders
+Physical Health	Health-related outcomes > First occurrences > Nervous system disorders
+Physical Health	"Health-related outcomes > First occurrences > Pregnancy, childbirth and the puerperium"
+Physical Health	Health-related outcomes > First occurrences > Respiratory system disorders
+Physical Health	Health-related outcomes > First occurrences > Skin and subcutaneous tissue disorders
+Lifestyle/Behaviours	Online follow-up > Food (and other) preferences
+Brain/Cognition	UK Biobank Assessment Centre > Cognitive function > Paired associate learning
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer a2009s
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer BA exvivo
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan gw
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan pial
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer DKT
+Brain Imaging	UK Biobank Assessment Centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer subsegmentation

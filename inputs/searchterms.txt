@@ -1,0 +1,437 @@
+Spells in hospital	NA
+Hospital episode type: General episode	NA
+Administrative and legal statuses: NHS patient: not formally detained	NA
+Intended management of patient (recoded): One or more nights hospital stay	NA
+Intended management of patient (recoded): No overnight hospital stay	NA
+Main speciality of consultant (recoded): Accident and emergency (A&E)	NA
+Main speciality of consultant (recoded): Anaesthetics	NA
+Main speciality of consultant (recoded): Cardiology	NA
+Main speciality of consultant (recoded): Ear, nose and throat (ENT)	NA
+Main speciality of consultant (recoded): Gastroenterology	NA
+Main speciality of consultant (recoded): General medicine	NA
+Main speciality of consultant (recoded): General surgery	NA
+Main speciality of consultant (recoded): Gynaecology	NA
+Main speciality of consultant (recoded): Trauma and orthopaedics	NA
+Main speciality of consultant (recoded): Urology	NA
+Treatment speciality of consultant (recoded): Accident & emergency (A&E)	NA
+Treatment speciality of consultant (recoded): Anaesthetics	NA
+Treatment speciality of consultant (recoded): Ear, nose and throat (ENT)	NA
+Treatment speciality of consultant (recoded): Gastroenterology	NA
+Treatment speciality of consultant (recoded): General medicine	NA
+Treatment speciality of consultant (recoded): General surgery	NA
+Treatment speciality of consultant (recoded): Gynaecology	NA
+Treatment speciality of consultant (recoded): Pain management	NA
+Treatment speciality of consultant (recoded): Trauma & orthopaedics	NA
+Treatment speciality of consultant (recoded): Urology	NA
+Patient classification on admission (recoded): Inpatient	NA
+Patient classification on admission (recoded): Day case	NA
+Destinations on discharge from hospital (recoded): Usual Place of residence	NA
+Methods of admission to hospital (recoded): Elective admission: Waiting List	NA
+Methods of admission to hospital (recoded): Elective admission: Booked	NA
+Methods of admission to hospital (recoded): Elective admission: Planned	NA
+Methods of admission to hospital (recoded): Emergency admission: A&E	NA
+Methods of admission to hospital (recoded): Emergency admission: GP	NA
+Methods of discharge from hospital (recoded): Discharged on clinical advice/consent	NA
+Sources of admission to hospital (recoded): Usual Place of residence	NA
+Median T2star in pallidum (left)	median t2star in pallidum
+Median T2star in pallidum (right)	median t2star in pallidum
+Comparative body size at age 10	comparative body size at age 10, body size age 10
+Comparative height size at age 10	comparative height size at age 10, height age 10
+Maternal smoking around birth	maternal smoking around birth, maternal smoking at birth, maternal smoking, mother smoking birth
+Mother's age	mother's age, maternal age
+Number of full brothers	number of brothers, brothers
+Father's age	father's age, paternal age
+Illnesses of father: Chronic bronchitis/emphysema	chronic bronchitis father, emphysema father, paternal chronic bronchitis, paternal emphysema 
+Illnesses of mother: Heart disease	heart disease mother, maternal heart disease
+Illnesses of mother	illnesses of mother, maternal illness
+Illnesses of mother: Severe depression	drepression mother, maternal depression
+Illnesses of mother: Chronic bronchitis/emphysema	chronic bronchitis mother, emphysema mother, maternal chronic bronchitis, maternal emphysema 
+Illnesses of siblings: Heart disease	sibling heart disease
+Illnesses of siblings	sibling illness
+Illnesses of siblings	sibling illness
+Illnesses of siblings: Severe depression	sibling depression
+Illnesses of siblings: Chronic bronchitis/emphysema	sibling chronic bronchitis, sibling emphysema
+Illnesses of siblings: Diabetes	sibling diabetes
+Usual walking pace	usual walking pace, walking pace
+Time spent watching television (TV)	television use, television time, television, tv
+Time spent using computer	computer use, computer time, computer
+Weekly usage of mobile phone in last 3 months	mobile use, mobile time, mobile, phone, phone use, phone time, mobile phone
+Sleep duration	NA
+Getting up in morning	NA
+Morning/evening person (chronotype)	NA
+Current tobacco smoking	current tobacco smoking, current smoker, smoking, smoker, tobacco, smoking
+Past tobacco smoking	past tobacco smoking, past smoker, smoking, smoker, tobacco, smoking
+Exposure to tobacco smoke outside home	exposure to tobacco smoke outside home, non-domestic tobacco exposure
+Fresh fruit intake	fresh fruit intake, fresh fruit, fruit
+Dried fruit intake	dried fruit intake, dried fruit
+Cereal intake	cereal intake, cereal
+Variation in diet	variation in diet, diet
+Alcohol intake frequency.	alcohol intake frequency, alcohol consumption, alcohol
+Average weekly red wine intake	average weekly red wine intake, weekly red wine, red wine
+Alcohol usually taken with meals	alcohol usually taken with meals
+Age first had sexual intercourse	age first had sexual intercourse, first sexual intercourse, sexual intercourse, virginity
+Lifetime number of sexual partners	lifetime number of sexual partners, sexual partners
+Plays computer games	plays computer games, computer games, video games, online games
+Frequency of solarium/sunlamp use	solarium use, sunlamp use, solarium use frequency, sunlamp use frequency, solarium, sunlamp
+Ever smoked	ever tobacco smoking, ever smoker, smoking, smoker, tobacco
+Pack years of smoking	pack years of smoking,  pack years, smoking years
+Pack years adult smoking as proportion of life span exposed to smoking	pack years adult smoking as proportion of life span exposed to smoking, proportional adult pack years smoking, proportion of liefspan smoking
+Liking for aubergine	liking for aubergine, likes aubergine, aubergine
+Liking for exercising with others	liking for exercise with others, likes group exercise, exercise with others, group exercise, exercise
+Liking for herring	liking for herring, likes herring, herring
+Liking for taking the stairs	liking for taking the stairs, likes taking stairs, takes stairs
+Average acceleration 00:00 - 00:59	average acceleration 00:00 - 00:59, average acceleration, accelerometer, acceleration
+Average acceleration 01:00 - 01:59	average acceleration 01:00 - 01:59, average acceleration, accelerometer, acceleration
+Average acceleration 02:00 - 02:59	average acceleration 02:00 - 02:59, average acceleration, accelerometer, acceleration
+Average acceleration 03:00 - 03:59	average acceleration 03:00 - 03:59, average acceleration, accelerometer, acceleration
+Average acceleration 08:00 - 08:59	average acceleration 08:00 - 08:59, average acceleration, accelerometer, acceleration
+Fraction acceleration <= 700 milli-gravities	fraction acceleration, 700 milli-gravities
+Fraction acceleration <= 800 milli-gravities	fraction acceleration, 800 milli-gravities
+Dessert consumers	dessert consumers, dessert
+Milk type used	milk type used, milk type, milk
+Bread type	bread type, bread
+Cereal type	cereal type, cereal
+Major dietary changes in the last 5 years	major dietary changes in the last 5 years, dietary change, diet
+Smoking status	smoking status, smoker, tobacco, smoking
+Alcohol drinker status	alcohol drinker status, alcohol, alcohol drinker, alcohol status, alcohol
+Never eat eggs, dairy, wheat, sugar: I eat all of the above	eggs, dairy, wheat, sugar
+Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport)	recreational walking, walking, walk
+Types of physical activity in last 4 weeks	physical activity, exercise
+Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)	exercise
+Types of physical activity in last 4 weeks: Strenuous sports	strenuous sports, sport
+Date F10 first reported (mental and behavioural disorders due to use of alcohol)	f10, alcohol addiction, mental and behavioural disorders due to use of alcohol, alcohol related mental health disorders
+Date F17 first reported (mental and behavioural disorders due to use of tobacco)	f17, tobacco addiction, mental and behavioural disorders due to use of tobacco, tobacco related mental health disorders
+Nervous feelings	nervous feelings,  nervous
+Worrier / anxious feelings	worrier, anxious feelings, anxiety
+Tense / 'highly strung'	tense, highly strung
+Worry too long after embarrassment	worry too long after embarrassment, worry, embarassenent
+Suffer from 'nerves'	nerves
+Risk taking	risk taking
+Seen doctor (GP) for nerves, anxiety, tension or depression	seen doctor for anxiety or depression, doctor for mental health
+Seen a psychiatrist for nerves, anxiety, tension or depression	seen psychiatrist for anxiety or depression, psychiatrist
+Neuroticism score	neuroticism score, neuroticism
+Tense, sore, or aching muscles during worst period of anxiety	anxiety induced muscle pain 
+Ever felt worried, tense, or anxious for most of a month or longer	anxiety, anxiety for over a month
+Ever worried more than most people would in similar situation	worried, abnormal worry, worry
+Frequent trouble falling or staying asleep during worst period of anxiety	NA
+Recent easy annoyance or irritability	irritability, irritable 
+Recent feelings or nervousness or anxiety	recent feelings or nervousness or anxiety, anxiety, nervousness
+Recent inability to stop or control worrying	inability to stop worrying
+Recent feelings of foreboding	feelings of foreboding
+Recent trouble relaxing	trouble relaxing
+Recent restlessness	restlessness
+Recent worrying too much about different things	worrying about too much
+Frequency of inability to stop worrying during worst period of anxiety	inability to stop worrying
+Date F41 first reported (other anxiety disorders)	f41, anxiety disorder
+Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder	generalized anxiety disorder, gad
+Mental health problems ever diagnosed by a professional: Panic attacks	panic attacks
+Substances taken for anxiety: Medication prescribed to you (for at least two weeks)	anxiety medication, medication for anxiety
+Activities undertaken to treat anxiety: Talking therapies, such as psychotherapy, counselling, group therapy or CBT	anxiety therapy, therapy for anxiety
+Miserableness	miserableness
+Frequency of depressed mood in last 2 weeks	depressed
+Frequency of unenthusiasm / disinterest in last 2 weeks	unenthusiasm, disinterest
+Frequency of tenseness / restlessness in last 2 weeks	tenseness, restlessness
+Frequency of tiredness / lethargy in last 2 weeks	tiredness, lethargy
+Ever depressed for a whole week	depressed
+Ever unenthusiastic/disinterested for a whole week	unenthusiasm, disinterest, unenthusiastic
+Fraction of day affected during worst episode of depression	fraction of day affected during worst episode of depression, depression
+Duration of worst depression	depression duration, depression
+Ever had prolonged loss of interest in normal activities	loss of interest
+Ever had prolonged feelings of sadness or depression	sadness, depression
+Professional informed about depression	depression
+Recent feelings of inadequacy	feelings of inadequacy, inadequacy
+Recent trouble concentrating on things	trouble concentrating, concentration
+Recent feelings of depression	depression
+Recent poor appetite or overeating	poor appetite, overeating, appetite
+Recent lack of interest or pleasure in doing things	lack of interest
+Recent changes in speed/amount of moving or speaking	change in speed, change in amount of moving,  change in speaking
+Recent feelings of tiredness or low energy	tiredness, low energy
+Date F32 first reported (depressive episode)	 f32, depressive episode
+Weight change during worst episode of depression	depression-induced weight change
+Mental health problems ever diagnosed by a professional: Depression	depression
+Substances taken for depression: Medication prescribed to you (for at least two weeks)	depression medication, medication for depression
+Substances taken for depression: Drugs or alcohol (more than once)	depression, drugs, alcohol, self-medication, depression medication
+Activities undertaken to treat depression: Talking therapies, such as psychotherapy, counselling, group therapy or CBT	depression therapy, therapy for depression
+Ever sought or received professional help for mental distress	mental distress
+Ever suffered mental distress preventing usual activities	mental distress
+Detention categories: Informal, not formally detained	mental distress
+Mood swings	mania, mood swings
+Ever had period extreme irritability	irritability
+Bipolar and major depression status	bipolar, major depression
+Manifestations of mania or irritability: I was more restless than usual	restlessness
+Manifestations of mania or irritability: My thoughts were racing	racing thoughts
+Trouble falling or staying asleep, or sleeping too much	NA
+Trouble falling asleep	NA
+Able to confide	able to confide
+Leisure/social activities: Sports club or gym	sports club, gym
+Leisure/social activities	leisure activities
+Leisure/social activities: Religious group	religious group
+Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself	serious injury, assault
+Illness, injury, bereavement, stress in last 2 years	illness, injury, bereavement
+Illness, injury, bereavement, stress in last 2 years: Financial difficulties	financial difficulties
+Ever thought that life not worth living	suicidal ideation, suicidal thoughts
+Ever self-harmed	self-harm
+Ever contemplated self-harm	self-harm ideation
+Methods of self-harm used: Ingesting a medication in excess of the normal dose	ingesting a medication in excess of the normal dose, self-harm, overdose
+Felt hated by family member as a child	childhood emotional abuse, abuse
+Physically abused by family as a child	childhood physical abuse, abuse
+Felt loved as a child	felt loved as a child
+Sexually molested as a child	childhood sexual abuse, abuse
+Avoided activities or situations because of previous stressful experience in past month	trauma, ptsd, post traumatic stress disorder, avoided activities or situations because of previous stressful experience
+Repeated disturbing thoughts of stressful experience in past month	trauma, ptsd, post traumatic stress disorder, repeated disturbing thoughts of stressful experience
+Felt very upset when reminded of stressful experience in past month	trauma, ptsd, post traumatic stress disorder, distressed when reminded of stressful experience
+Belittlement by partner or ex-partner as an adult	domestic emotional abuse, abuse
+Physical violence by partner or ex-partner as an adult	domestic physical abuse, abuse
+Victim of sexual assault	sexual assault
+Been in serious accident believed to be life-threatening	life-threatening accident, serious accident
+Irritability	irritability, irritable
+Sensitivity / hurt feelings	sensitivity, hurt feelings
+Fed-up feelings	fed-up feelings
+Loneliness, isolation	loneliness, isolation
+Guilty feelings	guilty feelings, guilt
+Happiness	happiness
+Health satisfaction	health satisfaction
+Family relationship satisfaction	family relationship satisfaction, relationship satisfaction, family relationship
+Financial situation satisfaction	financial satisfaction
+Ever highly irritable/argumentative for 2 days	highly irritable, argumentative
+General happiness	general happiness, happiness
+General happiness with own health	happiness with health
+Belief that own life is meaningful	well-being, life-satisfaction, belief that own life is meaningful
+White blood cell (leukocyte) count	white blood cell, leukocyte
+Red blood cell (erythrocyte) distribution width	red blood cell distribution width, erythrocyte distribution width, red blood cell, erythrocyte, red cell distribution width 
+Neutrophill count	neutrophill count, neutrophill
+Reticulocyte percentage	reticulocyte percentage, reticulocyte
+Reticulocyte count	reticulocyte count, reticulocyte
+Immature reticulocyte fraction	immature reticulocyte fraction, immature reticulocyte
+High light scatter reticulocyte percentage	high light scatter reticulocyte percentage, high light scatter reticulocyte 
+High light scatter reticulocyte count	high light scatter reticulocyte count
+Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Hayfever, allergic rhinitis or eczema	hayfever, allergic rhinitis, eczema
+Waist circumference	waist circumference
+Hip circumference	hip circumference
+Standing height	standing height
+Body mass index (BMI)	body mass index, bmi
+Weight	weight
+Weight	weight
+Body fat percentage	body fat percentage
+Whole body fat mass	whole body fat mass
+Body mass index (BMI)	body mass index, bmi
+Impedance of arm (right)	impedance of right arm
+Impedance of arm (left)	impedance of left arm
+Leg fat percentage (right)	right leg fat percentage
+Leg fat mass (right)	right leg fat mass
+Leg fat percentage (left)	left leg fat percentage
+Leg fat mass (left)	left leg fat mass
+Arm fat percentage (right)	right arm fat percentage
+Arm fat mass (right)	right arm fat mass
+Arm fat percentage (left)	left arm fat percentage
+Arm fat mass (left)	left arm fat mass
+Trunk fat percentage	trunk fat percentage
+Trunk fat mass	trunk fat mass
+Pulse rate, automated reading	pulse rate, pulse
+Chest pain or discomfort	chest pain
+Leg pain on walking	leg pain on walking, leg pain
+Apolipoprotein A	apolipoprotein a
+HDL cholesterol	high-density lipoprotein, hdl
+Triglycerides	triglycerides
+Date I10 first reported (essential (primary) hypertension)	i10, hypertension
+Date I20 first reported (angina pectoris)	i20, angina pectoris
+Date I25 first reported (chronic ischaemic heart disease)	i25, chronic ischaemic heart disease
+Treatment/medication code: atorvastatin	atorvastatin, statin
+Vascular/heart problems diagnosed by doctor	doctor diagnosed vascular problems, doctor diagnosed heart problems, vascular problems, heart problems
+Vascular/heart problems diagnosed by doctor: High blood pressure	doctor diagnosed high blood pressure, high blood pressure
+Mouth/teeth dental problems	mouth problems, teeth problems, dental problems
+Mouth/teeth dental problems: Dentures	dentures
+Ever diagnosed with IBS	ibs, irritable bowel syndrome
+Frequency of discomfort/pain in abdomen in last 3 months	abdominal pain
+Currently (in last 3 months) suffer from abdominal pain	abdominal pain
+Currently suffer from abdominal distension	abdominal distension
+Satisfaction with bowel habits	satisfaction with bowel habits
+Degree to which abdominal pain/discomfort/altered bowel habits affect/interfere with life in general	altered bowel habits interfere with life
+Greatest number of times bowels opened per day	bowels opened, defication, excretion, bowel movements
+Degree bothered by back pain in the past 3 months	back pain
+Degree bothered by pain in arms/legs/joints in the past 3 months	arm pain, leg pain, joint pain
+Degree bothered by headaches in the last 3 months	headaches, headache
+Degree bothered by chest pain in the last 3 months	chest pain
+Degree bothered by dizziness in the last 3 months	dizziness
+Degree bothered by feeling heart pound/race in the last 3 months	heart pound, heart race, racing heart, pounding heart, heart palpatations
+Degree bothered by shortness of breath in the last 3 months	shortness of breath
+Degree bothered by urinary frequency/bladder irritability in the last 3 months	frequent urination, bladder irritability
+Degree bothered by nausea in the last 3 months	nausea
+Degree bothered by feeling tired all the time in the last 3 months	feeling tired
+Degree bothered by trouble sleeping in the last 3 months	NA
+Ever been offered/sought treatment for anxiety	anxiety treatment
+Ever been offered/sought treatment for depression	depression treatment
+Sensitive stomach	sensitive stomach
+Long-term/recurrent antibiotics as child or teenager	long-term antibiotics as child or teenager, long-term antibiotics, antibiotics
+Alkaline phosphatase	alkaline phosphatase
+Alanine aminotransferase	alanine aminotransferase
+Gamma glutamyltransferase	gamma glutamyltransferase
+Date K20 first reported (oesophagitis)	k20, oesophagitis
+Date K21 first reported (gastro-oesophageal reflux disease)	k21, gastro-oesophageal reflux disease
+Date K29 first reported (gastritis and duodenitis)	k29, gastritis, duodenitis
+Date K44 first reported (diaphragmatic hernia)	k44, diaphragmatic hernia
+Date K57 first reported (diverticular disease of intestine)	k57, diverticular disease of intestine
+Date K58 first reported (irritable bowel syndrome)	k58, irritable bowel syndrome
+Date K76 first reported (other diseases of liver)	k76, other diseases of liver
+Date K80 first reported (cholelithiasis)	k80, cholelithiasis
+Date K92 first reported (other diseases of digestive system)	k92, other diseases of digestive system
+Treatment/medication code: lansoprazole	lansoprazole
+Treatment/medication code: omeprazole	omeprazole
+Operation code: cholecystectomy/gall bladder removal	cholecystectomy, gall bladder removal
+Operative procedures - main OPCS4: G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract	g45.1, lesion of upper gastrointestinal tract
+Operative procedures - main OPCS4: G45.9 Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract	g45.9, upper gastrointestinal tract
+Operative procedures - main OPCS4: H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon	h22.1, diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
+Operative procedures - secondary OPCS4: Z27.2 Stomach	z27.2, stomach
+Operative procedures - secondary OPCS4: Z27.4 Duodenum	z27.4, duodenum
+Operative procedures - OPCS4: G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract	g45.1, lesion of upper gastrointestinal tract
+Operative procedures - OPCS4: G45.9 Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract	g45.9, upper gastrointestinal tract
+Operative procedures - OPCS4: H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon	h22.1,lesion of colon
+Operative procedures - OPCS4: H22.9 Unspecified diagnostic endoscopic examination of colon	h22.9, colon
+Operative procedures - OPCS4: Z27.2 Stomach	z27.2, stomach
+Operative procedures - OPCS4: Z27.4 Duodenum	z27.4, duodenum
+Medication for pain relief, constipation, heartburn: Aspirin	aspirin
+Medication for pain relief, constipation, heartburn	pain relief, constipation, heartburn
+Medication for pain relief, constipation, heartburn: Ibuprofen (e.g. Nurofen)	 ibuprofen
+Medication for pain relief, constipation, heartburn: Paracetamol	paracetamol
+Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol)	omeprazole
+Medication for pain relief, constipation, heartburn: Laxatives (e.g. Dulcolax, Senokot)	laxatives
+Hearing difficulty/problems	difficulty hearing
+Hearing difficulty/problems with background noise	difficulty hearing
+Noisy workplace	noisy workplace
+Tinnitus	tinnitus
+IGF-1	igf-1
+Date E11 first reported (non-insulin-dependent diabetes mellitus)	e11, non-insulin-dependent diabetes mellitus
+Date E66 first reported (obesity)	e66, obesity
+Date E78 first reported (disorders of lipoprotein metabolism and other lipidaemias)	e78, disorders of lipoprotein metabolism and other lipidaemias
+Number of self-reported non-cancer illnesses	non-cancer illnesses
+Number of operations, self-reported	operations
+Number of treatments/medications taken	treatments, medication
+Overall health rating	overall health rating, overall health, health rating
+Long-standing illness, disability or infirmity	long-standing illness, disability, infirmity
+Falls in the last year	falls
+Weight change compared with 1 year ago	weight change
+Other serious medical condition/disability diagnosed by doctor	serious medical condition, disability
+Taking other prescription medications	prescription medication
+Had other major operations	major operations, operations
+C-reactive protein	c-reactive protein
+Operative procedures - main OPCS4: X99.8 No procedure performed	x99.8, no procedure performed
+Operative procedures - secondary OPCS4: Y76.7 Arthroscopic approach to joint	y76.7, arthroscopic approach to joint
+Operative procedures - secondary OPCS4: Y98.1 Radiology of one body area (or < 20 minutes)	y98.1, radiology of one body area (or < 20 minutes)
+Operative procedures - secondary OPCS4: Y98.2 Radiology of two body areas	y98.2, radiology of two body areas
+Operative procedures - secondary OPCS4: Z94.1 Bilateral operation	z94.1, bilateral operation
+Operative procedures - secondary OPCS4: Z94.2 Right sided operation	z94.2, right sided operation
+Operative procedures - secondary OPCS4: Z94.3 Left sided operation	z94.3, left sided operation
+Operative procedures - OPCS4: X99.8 No procedure performed	x99.8, no procedure performed
+Operative procedures - OPCS4: Y76.7 Arthroscopic approach to joint	y76.7, arthroscopic approach to joint
+Operative procedures - OPCS4: Y98.1 Radiology of one body area (or < 20 minutes)	y98.1, radiology of one body area (or < 20 minutes)
+Operative procedures - OPCS4: Y98.2 Radiology of two body areas	y98.2, radiology of two body areas
+Operative procedures - OPCS4: Z94.1 Bilateral operation	z94.1, bilateral operation
+Operative procedures - OPCS4: Z94.2 Right sided operation	z94.2, right sided operation
+Operative procedures - OPCS4: Z94.3 Left sided operation	z94.3, left sided operation
+Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor	blood clot, dvt, bronchitis, emphysema, asthma, rhinitis, eczema, allergy
+Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	medication for cholesterol, cholesterol medication, blood pressure medication, diabetes medication, exogenous hormones
+Cystatin C	cystatin c
+Date N39 first reported (other disorders of urinary system)	n39, urinary disorders
+Operative procedures - main OPCS4: M45.9 Unspecified diagnostic endoscopic examination of bladder	m45.9, bladder
+Operative procedures - OPCS4: M45.9 Unspecified diagnostic endoscopic examination of bladder	m45.9, bladder
+Treatment/medication code: amitriptyline	amitriptyline
+Date M13 first reported (other arthritis)	m13, arthritis
+Date M17 first reported (gonarthrosis [arthrosis of knee])	m17, gonarthrosis
+Date M19 first reported (other arthrosis)	m19, arthrosis
+Date M25 first reported (other joint disorders, not elsewhere classified)	m25, joint disorders
+Date M47 first reported (spondylosis)	m47, spondylosis
+Date M54 first reported (dorsalgia)	m54, dorsalgia
+Date M75 first reported (shoulder lesions)	m75, shoulder lesions
+Date M77 first reported (other enthesopathies)	m77, enthesopathies
+Date M79 first reported (other soft tissue disorders, not elsewhere classified)	m79, soft tissue disorders
+Operation code: shoulder surgery	shoulder surgery
+Operative procedures - main OPCS4: V54.4 Injection around spinal facet of spine	v54.4, injection around spinal facet of spine
+Operative procedures - main OPCS4: W40.1 Primary total prosthetic replacement of knee joint using cement	w40.1, primary total prosthetic replacement of knee joint using cement
+Operative procedures - secondary OPCS4: V55.1 One level of spine	v55.1, spine
+Operative procedures - secondary OPCS4: Z67.5 Lumbar intervertebral joint	z67.5, lumbar intervertebral joint
+Operative procedures - OPCS4: O29.1 Subacromial decompression	o29.1, subacromial decompression
+Operative procedures - OPCS4: V54.4 Injection around spinal facet of spine	v54.4, injection around spinal facet of spine
+Operative procedures - OPCS4: V55.1 One level of spine	v55.1, spine
+Operative procedures - OPCS4: W40.1 Primary total prosthetic replacement of knee joint using cement	w40.1, primary total prosthetic replacement of knee joint using cement
+Operative procedures - OPCS4: W90.3 Injection of therapeutic substance into joint	w90.3, injection of therapeutic substance into joint
+Operative procedures - OPCS4: Z67.5 Lumbar intervertebral joint	z67.5, lumbar intervertebral joint
+Date G25 first reported (other extrapyramidal and movement disorders)	g25, extrapyramidal and movement disorders
+Date G43 first reported (migraine)	g43, migraine
+Date G47 first reported (sleep disorders)	NA
+Glycated haemoglobin (HbA1c)	glycaemia, glycated haemoglobin, hba1c, blood sugar
+Neck/shoulder pain for 3+ months	neck pain, shoulder pain
+Back pain for 3+ months	back pain
+Treatment/medication code: tramadol	tramadol
+Treatment/medication code: aspirin	aspirin
+Treatment/medication code: ibuprofen	ibuprofen
+Treatment/medication code: co-codamol	co-codamol
+Treatment/medication code: paracetamol	paracetamol
+Pain type(s) experienced in last month: Headache	headache
+Pain type(s) experienced in last month	pain
+Pain type(s) experienced in last month: Neck or shoulder pain	neck pain, shoulder pain
+Pain type(s) experienced in last month: Back pain	back pain
+Pain type(s) experienced in last month: Stomach or abdominal pain	stomach, abdominal pain
+Pain type(s) experienced in last month: Hip pain	hip pain
+Pain type(s) experienced in last month: Knee pain	knee pain
+Pain type(s) experienced in last month: Pain all over the body	full-body pain
+Age at first live birth	age at first live birth
+Age at last live birth	age at last live birth
+Ever had stillbirth, spontaneous miscarriage or termination	stillbirth, miscarriage, termination
+Age started oral contraceptive pill	age started oral contraceptive pill, contraceptive pill
+Ever used hormone-replacement therapy (HRT)	hormone-replacement therapy, hrt
+Age started hormone-replacement therapy (HRT)	hormone-replacement therapy, hrt
+Operation code: hysterectomy	hysterectomy
+Wheeze or whistling in the chest in last year	chest wheeze, chest whistling
+Forced vital capacity (FVC)	forced vital capacity, fvc
+Forced expiratory volume in 1-second (FEV1)	forced expiratory volume in 1-second, fev1, forced expiratory volume, fev
+Shortness of breath walking on level ground	shortness of breath walking
+Forced expiratory volume in 1-second (FEV1), Best measure	forced expiratory volume in 1-second, fev1, forced expiratory volume, fev
+Forced vital capacity (FVC), Best measure	forced vital capacity, fvc
+Forced expiratory volume in 1-second (FEV1), predicted	forced expiratory volume in 1-second, fev1, forced expiratory volume, fev
+Date J22 first reported (unspecified acute lower respiratory infection)	j22, acute lower respiratory infection
+Date J30 first reported (vasomotor and allergic rhinitis)	j30, vasomotor and allergic rhinitis
+Date J40 first reported (bronchitis, not specified as acute or chronic)	j40, bronchitis, not specified as acute or chronic
+Date J44 first reported (other chronic obstructive pulmonary disease)	j44, chronic obstructive pulmonary disease
+Date J45 first reported (asthma)	j45, asthma
+Treatment/medication code: salbutamol	salbutamol
+Tobacco smoking	tobacco smoking, tobacco, smoking
+Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Emphysema/chronic bronchitis	emphysema, chronic bronchitis, bronchitis
+Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma	asthma
+Townsend deprivation index at recruitment	townsend deprivation index, sep, socioeconomic position, townsend
+Number in household	number in household
+Number of vehicles in household	number of vehicles in household
+Average total household income before tax	household income, income
+Job involves shift work	shift work
+Age completed full time education	education, age completed full time education
+Year ended full time education	education, year ended full time education
+Number of jobs held	number of jobs
+Index of Multiple Deprivation (England)	index of multiple deprivation, sep, socioeconomic position
+Income score (England)	income score, sep, socioeconomic position, income
+Employment score (England)	employment score, sep, socioeconomic position, employment
+Health score (England)	health score, sep, socioeconomic position, health
+Education score (England)	education score, sep, socioeconomic position, education
+Crime score (England)	crime score, sep, socioeconomic position, crime
+Job code at visit: Cleaners, domestics	cleaners, domestics
+Workplace very noisy	workplace noise
+Workplace very cold	workplace very cold, cold workplace
+Workplace very cold	workplace cold
+Workplace very hot	workplace hot
+Workplace very dusty	workplace dust
+Workplace very dusty	workplace dust
+Workplace full of chemical or other fumes	workplace chemical, workplace fumes
+Workplace had a lot of cigarette smoke from other people smoking	workplace smoking
+Worked with paints, thinners or glues	paints, thinners, glues
+Workplace had a lot of diesel exhaust	diesel exhaust
+Gap coding: Unable to work due to sickness or disability	unable to work due to sickness or disability, sickness, disability
+Qualifications: College or University degree	college degree, university degree, college, university
+Qualifications	qualifications
+Qualifications: A levels/AS levels or equivalent	a levels, as levels
+Qualifications: O levels/GCSEs or equivalent	o levels, gcses
+Qualifications: CSEs or equivalent	cses
+Gas or solid-fuel cooking/heating: An open solid fuel fire that you use regularly in winter time	open solid fuel fire
+How are people in household related to participant: Husband, wife or partner	lives with partner, co-habiting
+Current employment status: Unable to work because of sickness or disability	unable to work due to sickness, unable to work due to disability, sickness, disability
+Attendance/disability/mobility allowance	attendance allowance, disability allowance, mobility allowance
+Attendance/disability/mobility allowance: Disability living allowance	disability living allowance
+Attendance/disability/mobility allowance: Blue badge	blue badge, disability
+Own or rent accommodation lived in	Own accommodation, rent accommodation

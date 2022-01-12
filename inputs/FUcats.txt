@@ -1,0 +1,72 @@
+outcome	type	category	units
+Obesity	Binary	Body Composition/Metabolic	NA
+Angina pectoris	Binary	Cardiovascular	NA
+Hypertension, essential	Binary	Cardiovascular	NA
+Malignant neoplasm of colon	Binary	Digestive	NA
+Benign neoplasm: Colon	Binary	Digestive	NA
+Acute gastritis	Binary	Digestive	NA
+Cholelithiasis	Binary	Digestive	NA
+Chronic gastritis	Binary	Digestive	NA
+Diaphragmatic hernia	Binary	Digestive	NA
+Other diseases of liver	Binary	Digestive	NA
+Diverticular disease of intestine	Binary	Digestive	NA
+Irritable bowel syndrome	Binary	Digestive	NA
+Oesophagitis	Binary	Digestive	NA
+Diseases of oesophagus, stomach and duodenum	Binary	Digestive	NA
+Other gastritis (incl. Duodenitis)	Binary	Digestive	NA
+Gastro-oesophageal reflux disease	Binary	Digestive	NA
+Tinnitus	Binary	Miscellaneous	NA
+Allergic disease (asthma, hay fever or eczema)*	Binary	Immune	NA
+Allergic rhinitis	Binary	Immune	NA
+College completion	Binary	Miscellaneous	NA
+Depression medications	Binary	Mental Health/Addiction	NA
+Bipolar affective disorders	Binary	Mental Health/Addiction	NA
+Depression	Binary	Mental Health/Addiction	NA
+Post-traumatic stress disorder	Binary	Mental Health/Addiction	NA
+Anxiety disorders	Binary	Mental Health/Addiction	NA
+Acute alcohol intoxication	Binary	Mental Health/Addiction	NA
+Mental and behavioural disorders due to alcohol, excluding acute intoxication	Binary	Mental Health/Addiction	NA
+Mental and behavioural disorders due to tobacco	Binary	Mental Health/Addiction	NA
+Tobacco use	Binary	Mental Health/Addiction	NA
+Type 2 diabetes (adjusted for BMI)*	Binary	Body Composition/Metabolic	NA
+Disorders of lipoprotein metabolism and other lipidaemias	Binary	Body Composition/Metabolic	NA
+Other extrapyramidal and movement disorders+ in other diseases	Binary	Musculoskeletal/Pain	NA
+Gonarthrosis [arthrosis of knee](FG)	Binary	Musculoskeletal/Pain	NA
+Other arthrosis	Binary	Musculoskeletal/Pain	NA
+Other enthesopathies	Binary	Musculoskeletal/Pain	NA
+Other joint disorders	Binary	Musculoskeletal/Pain	NA
+Shoulder lesions	Binary	Musculoskeletal/Pain	NA
+Other soft tissue disorders, not elsewhere classified	Binary	Musculoskeletal/Pain	NA
+Spondylosis	Binary	Musculoskeletal/Pain	NA
+Other arthritis (FG)	Binary	Musculoskeletal/Pain	NA
+Other headache syndromes	Binary	Headache	NA
+Migraine	Binary	Headache	NA
+Dorsalgia	Binary	Musculoskeletal/Pain	NA
+Low back pain	Binary	Musculoskeletal/Pain	NA
+Pain in thoracic spine	Binary	Musculoskeletal/Pain	NA
+Asthma	Binary	Respiratory	NA
+Bronchitis	Binary	Respiratory	NA
+Unspecified acute lower respiratory infection	Binary	Respiratory	NA
+Other chronic obstructive pulmonary disease	Binary	Respiratory	NA
+Emphysema	Binary	Respiratory	NA
+High light scatter reticulocyte count*	Cont	Blood/Immune	/Litre
+High light scatter reticulocyte percentage of red cells*	Cont	Blood/Immune	Percent
+Reticulocyte fraction of red cells*	Cont	Blood/Immune	Percent
+Reticulocyte count*	Cont	Blood/Immune	/Litre
+Immature fraction of reticulocytes*	Cont	Blood/Immune	Fraction
+Body fat percentage	Cont	Body Composition/Metabolic	Percent
+Hip circumference	Cont	Body Composition/Metabolic	SD
+Waist circumference	Cont	Body Composition/Metabolic	SD
+Body mass index	Cont	Body Composition/Metabolic	SD
+HDL cholesterol	Cont	Cardiovascular	mg/dL
+Triglycerides	Cont	Cardiovascular	mg/dL
+Apolipoprotein A-I	Cont	Cardiovascular	SD
+Apolipoprotein A-V	Cont	Cardiovascular	SD
+Serum alkaline phosphatase levels	Cont	Digestive	Iu/L
+Alanine aminotransferase 1	Cont	Digestive	SD
+Cystatin C	Cont	Digestive	Inverse Normal Scaled
+Leukocyte Absolute Count	Cont	Blood/Immune	Absolute Count
+C-Reactive protein level	Cont	Blood/Immune	Natural-Log-Transformed mg/L
+Subjective well-being*	Cont	Mental Health	SD
+Neuroticism	Cont	Mental Health	Score
+HbA1C	Cont	Body Composition/Metabolic	Percent
