@@ -88,18 +88,18 @@ sanity_check_dosage <- function(folder) {
 
 	#Add dotted line at 1 of the y axis, set axis labels, flip the axis, then set text size to 2 for y axis
 	forest <- ggplot(data=forestdata, aes(x=snp, y=or, ymin=lower, ymax=upper)) +
-		geom_pointrange() + 
+		geom_pointrange(size=0.25) + 
 		geom_hline(yintercept=1, lty=2) +
 		xlab("SNP") + ylab("Odds Ratio (95% CI)") +
 		coord_flip() +
-		theme(axis.text.y=element_text(size=2))
+		theme(axis.text.y=element_text(size=15))
 
 	#############
 	# SAVE DATA #
 	#############
 
 	setwd(OUTPUT)
-	ggsave(paste(folder, "/sancheck/graphs/forest-plot-", folder, ".jpg", sep=""), width = 6, height = 6, forest)
+	ggsave(paste(folder, "/sancheck/graphs/forest-plot-", folder, ".jpg", sep=""), width = 6, height = 12, forest)
 	write.table(forestdata, paste(folder, "/sancheck/forestplottable-", folder, ".txt", sep=""), row.names=FALSE, sep = " ", quote=FALSE)
 }
 

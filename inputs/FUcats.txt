@@ -24,7 +24,7 @@ Bipolar affective disorders	Binary	Mental Health/Addiction	NA
 Depression	Binary	Mental Health/Addiction	NA
 Post-traumatic stress disorder	Binary	Mental Health/Addiction	NA
 Anxiety disorders	Binary	Mental Health/Addiction	NA
-Acute alcohol intoxication	Binary	Mental Health/Addiction	NA
+Acute alcohol intoxication (ALCOHOLACUTE10)	Binary	Mental Health/Addiction	NA
 Mental and behavioural disorders due to alcohol, excluding acute intoxication	Binary	Mental Health/Addiction	NA
 Mental and behavioural disorders due to tobacco	Binary	Mental Health/Addiction	NA
 Tobacco use	Binary	Mental Health/Addiction	NA
@@ -47,7 +47,7 @@ Pain in thoracic spine	Binary	Musculoskeletal/Pain	NA
 Asthma	Binary	Respiratory	NA
 Bronchitis	Binary	Respiratory	NA
 Unspecified acute lower respiratory infection	Binary	Respiratory	NA
-Other chronic obstructive pulmonary disease	Binary	Respiratory	NA
+Other chronic obstructive pulmonary disease (J10_COPDNAS)	Binary	Respiratory	NA
 Emphysema	Binary	Respiratory	NA
 High light scatter reticulocyte count*	Cont	Blood/Immune	/Litre
 High light scatter reticulocyte percentage of red cells*	Cont	Blood/Immune	Percent

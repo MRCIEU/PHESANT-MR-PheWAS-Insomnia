@@ -1,4 +1,5 @@
 #!/bin/bash
+#SBATCH --account=psyc010162
 #SBATCH --job-name=sanity_check_dosages
 #SBATCH --output=sanity_check_dosages_slurm.txt
 #SBATCH --nodes=1

@@ -22,6 +22,11 @@ gwas<-fread("mrbaseids.txt", header=FALSE, data.table=F)
 cont<-fread("contFUoutcomes.txt", header=TRUE, data.table=F, sep="\t")
 exposure_snps <- read_exposure_data("exposure_data.txt", sep="\t")
 
+#Format Exposure data
+exposure_snps$ncase.exposure<- 288065
+exposure_snps$ncontrol.exposure<- 656412
+exposure_snps$units.exposure<- "log odds"
+
 ######
 # MR #
 ######
@@ -56,7 +61,7 @@ for (i in 1:nrow(gwas)){
 
 #combine
 combined_results<-merge(results, pleiotropy, by=c("outcome","method"), all.x = TRUE)
-combined_results<-merge(combined_results, heterogeneity, by=c("outcome","method"), all.x = TRUE)
+combined_results<-merge(combined_resus, heterogeneity, by=c("outcome","method"), all.x = TRUE)
 
 #########
 # 95%CI #

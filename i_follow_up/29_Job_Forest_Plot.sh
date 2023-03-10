@@ -1,4 +1,5 @@
 #!/bin/bash
+#SBATCH --account=psyc010162
 #SBATCH --job-name=forest_plot
 #SBATCH --output=forest_plot_slurm.txt
 #SBATCH --nodes=1
